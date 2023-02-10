@@ -6,3 +6,5 @@ second file
 5
 6
 7
+new change to us ewith restore --staged which only 
+removes from current staging but keeps a cioy from head and permanent delete as in case of rm --cached 
